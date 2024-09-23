@@ -4,7 +4,7 @@ Dragster-like Game
 This repository contains a Dragster-like Game developed as part of the Game Development 1 course at the University of California, Santa Cruz. This game simulates a simplified version of the classic Dragster (Atari 2600) game, excluding the gear-shifting mechanic. The player accelerates by holding a key, with a countdown timer before the race begins, and particles added for extra visual effects.
 
 Acknowledgments
-This project was developed as an assignment for the Game Development 1 course (GAME 235) at the University of California, Santa Cruz. The code was developed with the help of Mohamed Samy and Mohamed-Ali-77. Additionally, we used ChatGPT to assist in structuring and refining parts of the project.
+This project was developed as an assignment for the Game Development 1 course (GAME 235) at the University of California, Santa Cruz. The code was developed with the help of Mohamed Samy. Additionally, we used ChatGPT to assist in structuring and refining parts of the project.
 
 Overview
 The Dragster-like Game includes a countdown timer, acceleration mechanics, and a result screen. Players start the game by pressing a key, accelerate by holding a key, and finish by crossing the screen or false-starting before the countdown finishes. The game also includes particle effects for extra visual appeal.
